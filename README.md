@@ -1,4 +1,4 @@
-# Load Multiple Polygon features or GeoJSON feature collection using CSPro-JS API and Leaflet
+# Load Multiple Polygons GeoJSON feature collection using CSPro-JS API and Leaflet
  This is a basic example for loading multiple polygons in CSPro. Sometimes GeoJSON files coming from QGIS are not compliant with 
  the CSPro Map engine. It's why, among others, I implemented the function geojsonDataString() to display GeoJSON string and test 
  them on https://geojsonlint.com/. However, even after choosen one polygon, it's mandatory to refresh the view. This may be a 
